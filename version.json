@@ -1,8 +1,12 @@
 {
-  "version": "1.7.1",
+  "version": "1.8.0"
   "author": "lordralinc",
-  "description": "— Выключение скрипта при неверном токене",
+  "description": "— Просто дд",
   "update_log": [
+     {
+      "version": "1.7.1",
+      "description": "— Выключение скрипта при неверном токене"
+    },
     {
       "version": "1.7.0",
       "description": "— Шаблоны для удаления смс"

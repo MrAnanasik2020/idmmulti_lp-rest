@@ -1,8 +1,12 @@
 {
-  "version": "1.9.0",
+  "version": "1.10.0",
   "author": "lordralinc",
-  "description": "— Ответное заражение",
+  "description": "— Автоматическое получение секретного кода",
   "update_log": [
+    {
+      "version": "1.9.0",
+      "description": "— Ответное заражение"
+    },
     {
       "version": "1.8.0",
       "description": "— Просто дд"

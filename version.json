@@ -1,8 +1,12 @@
 {
-  "version": "1.10.0",
+  "version": "1.11.1",
   "author": "lordralinc",
-  "description": "— Автоматическое получение секретного кода",
-  "update_log": [
+  "description": "— Добавление и удаление мрп",
+  "update_log": [    
+    {
+      "version": "1.10.0",
+      "description": "— Автоматическое получение секретного кода"
+    },
     {
       "version": "1.9.0",
       "description": "— Ответное заражение"

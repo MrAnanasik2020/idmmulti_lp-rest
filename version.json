@@ -1,8 +1,12 @@
 {
-  "version": "1.11.2",
+  "version": "1.11.3",
   "author": "lordralinc",
-  "description": "— Добавление и удаление мрп",
+  "description": "— Фиксы",
   "update_log": [    
+    {
+      "version": "1.11.2",
+      "description": "— Добавление и удаление мрп"
+    },
     {
       "version": "1.10.0",
       "description": "— Автоматическое получение секретного кода"

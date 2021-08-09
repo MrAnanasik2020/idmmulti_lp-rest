@@ -1,8 +1,12 @@
 {
-  "version": "1.11.4",
+  "version": "1.12.0",
   "author": "lordralinc",
-  "description": "— Фиксы",
-  "update_log": [    
+  "description": "— Режим NoMeta",
+  "update_log": [  
+    {
+      "version": "1.11.4",
+      "description": "— Фиксы"
+    },
     {
       "version": "1.11.2",
       "description": "— Добавление и удаление мрп"

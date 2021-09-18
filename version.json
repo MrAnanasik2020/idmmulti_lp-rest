@@ -1,8 +1,12 @@
 {
-  "version": "1.12.0",
-  "author": "lordralinc",
-  "description": "— Режим NoMeta",
-  "update_log": [  
+  "version": "1.13.0",
+  "author": "MrAnanasik2020",
+  "description": "— Автозаражеие",
+  "update_log": [ 
+    {
+      "version": "1.12.0",
+      "description": "— Режим NoMeta",
+    },
     {
       "version": "1.11.4",
       "description": "— Фиксы"
